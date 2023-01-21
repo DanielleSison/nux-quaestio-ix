@@ -1,6 +1,6 @@
 # Nux Quaestio XIX
 
-# URL: https://daniellesison.github.io/nux-quaestio-ix/
+# URL: https://daniellesison.github.io/nux-quaestio-xix/
 
 ## Description
 
